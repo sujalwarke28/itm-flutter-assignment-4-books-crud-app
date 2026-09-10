@@ -1,0 +1,11 @@
+# Secrets and environment variables
+serviceAccountKey.json
+**/serviceAccountKey.json
+.env
+**/.env
+node_modules/
+**/node_modules/
+
+# Flutter build artifacts
+.dart_tool/
+build/
